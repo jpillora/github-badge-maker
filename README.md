@@ -1,15 +1,13 @@
-Add awesome Twitter buttons to your Github projects like
+Add all the badges to your Githubs
 
-<a href="https://twitter.com/intent/tweet?hashtags=github%2Ctwitter%2Cbuttons&original_referer=http%3A%2F%2Fgithub.com%2F&text=Add+a+Twitter+to+your+Github+Project!&tw_p=tweetbutton&url=https%3A%2F%2Fgithub.com%2Fjpillora%2Fgithub-twitter-button" target="_blank">
-  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"></img>
-</a>
-
+<a href="https://twitter.com/intent/tweet?text=Add+all+the+badges+to+your+Githubs!&url=https%3A%2F%2Fgithub.com%2Fjpillora%2Fgithub-badge-maker&hashtags=github&original_referer=http%3A%2F%2Fgithub.com%2F&tw_p=tweetbutton" target="_blank">
+  <img src="http://jpillora.com/github-twitter-button/img/tweet.png"
+       alt="tweet button" title="Add all the badges to your Githubs!"></img>
+</a> ![ga tracker](https://www.google-analytics.com/collect?v=1&a=257770996&t=pageview&dl=https%3A%2F%2Fgithub.com%2Fjpillora%2Fgithub-badge-maker&ul=en-us&de=UTF-8&cid=978224512.1377738459&tid=UA-38709761-9&z=887657232 "ga tracker")
 
 ### Check it out:
 
-## http://jpillora.com/github-twitter-button
-
-
+## http://jpillora.com/github-badge-maker/
 
 #### MIT License
 
