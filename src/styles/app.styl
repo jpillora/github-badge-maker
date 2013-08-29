@@ -1,0 +1,53 @@
+
+html, body
+  width 100%
+  height 100%
+
+.container
+  max-width 1000px
+  padding-top 20px
+  padding-bottom 60px
+
+
+.badge-container
+  &.active
+    .title
+      background: pink
+    .content
+      display block
+      height 100%
+
+  .title
+    border-radius: 5px
+    background: whitesmoke
+    padding: 5px 20px
+    margin: 10px
+    cursor: pointer
+    transition: all 0.5s linear
+    &:hover
+      background: pink
+
+  .content
+    transition: height 0.5s linear
+    padding: 0px 40px
+    & > div
+      padding-top 20px
+
+    //accordion
+    display none
+    height 0%
+
+textarea
+  border-radius: 5px
+  display block
+  width 100%
+  border thin solid #CCC
+  padding 5px
+  height: 100px
+  font-family Courier
+
+.preview-box
+  border thin solid #CCC
+  border-radius: 5px
+  padding 10px
+  

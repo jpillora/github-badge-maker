@@ -1,0 +1,25 @@
+
+.badge-container#GA
+  .title
+    h3 Google Analytics
+  .content
+
+    p: i.
+      Note: you'll need to create a <b>Universal Analytics</b> property
+      and you'll also need to set the <b>Website</b> to be the 'Page' below.
+
+    .input-group
+      span.input-group-addon Github Username
+      input#username.form-control(type="text", value="jpillora")
+    .input-group
+      span.input-group-addon Project Name
+      input#project.form-control(type="text", value="github-badge-maker")
+    .input-group
+      span.input-group-addon Page
+      input#page.form-control(type="text", value="https://github.com/jpillora/github-badge-maker",)
+    .input-group
+      span.input-group-addon Tracker ID
+      input#tid.form-control(type="text", value="UA-38709761-9")
+    .output
+      | Paste into your Markdown
+      textarea
